@@ -1,0 +1,10 @@
+#navbar {
+  position: absolute;
+  left: 0px;
+}
+
+@media (max-width: 10000px) {
+  #header {
+      background-color: lightblue;
+  }
+}
